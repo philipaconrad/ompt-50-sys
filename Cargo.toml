@@ -1,0 +1,7 @@
+[package]
+name = "ompt-50-sys"
+version = "0.1.0"
+authors = ["Philip Conrad <philipaconrad@gmail.com>"]
+
+[dependencies]
+
